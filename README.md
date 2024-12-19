@@ -5,12 +5,20 @@ Created a dashboard focusing on creating a Customer-centric report that unravels
 Generated the report using following insights
 
 1.Calculate avg age of customers.
+
 2.Determine total count of customers.
+
 3.Categorize customers based on their total orders and purchases. VIP Customers have Total Orders>=2 
 and Total Purchases >=100; Loyal customers have total orders>=2 others are  periodic buyers.
+
 4.Analyze revenue based on whether customers have children or not.
+
 5.Implement a dynamic ranking system to identify top performing customers.
+
 6.Examine revenue based on customer gender.
 
-![Screenshot (11)](https://github.com/user-attachments/assets/10c0d427-f8e6-45d8-a008-d1bdab7fb825)
-![Screenshot (12)](https://github.com/user-attachments/assets/c149705e-2e56-4d51-be69-b8bf29b48ad0)
+![Screenshot (11)1](https://github.com/user-attachments/assets/fafb3d4f-024d-440e-a38e-a64767af10dc)
+![Screenshot (12)1](https://github.com/user-attachments/assets/6d827ac0-23d6-431f-8109-ebc6e584f47f)
+
+
+
