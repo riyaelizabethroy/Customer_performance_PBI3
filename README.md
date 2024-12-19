@@ -11,3 +11,6 @@ and Total Purchases >=100; Loyal customers have total orders>=2 others are  peri
 4.Analyze revenue based on whether customers have children or not.
 5.Implement a dynamic ranking system to identify top performing customers.
 6.Examine revenue based on customer gender.
+
+![Screenshot (11)](https://github.com/user-attachments/assets/10c0d427-f8e6-45d8-a008-d1bdab7fb825)
+![Screenshot (12)](https://github.com/user-attachments/assets/c149705e-2e56-4d51-be69-b8bf29b48ad0)
